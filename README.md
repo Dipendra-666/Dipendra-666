@@ -15,22 +15,34 @@
 # ⚡ Tech Stack
 
 ### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,linux,nginx" />
+</p>
 
 ### 📊 Monitoring
-
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
 ### 🌐 Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,react" />
+</p>
 
 ### 💻 Languages
-
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
 ---
 
 # 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dipendra-666&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
 # 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipendra-666&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=Dipendra-666&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
