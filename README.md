@@ -34,6 +34,10 @@
 
 # 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dipendra-666/Dipendra-666/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 # 🚀 Current Focus
